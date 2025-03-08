@@ -1,0 +1,6 @@
+name: ivar_env
+channels:
+  - defaults
+  - bioconda
+dependencies:
+  - ivar

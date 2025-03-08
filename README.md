@@ -68,10 +68,10 @@ conda env create -f clair3_env.yml
 The pipeline script (pipeline.sh) expects 10 arguments:
 
 ```bash
-Copy
 Usage: pipeline.sh <path_to_sample_directories> <path_to_reference_genome> <path_to_primer_bed_file> <threads> <min_length> <max_length> <clair3_env_name> <clair3_model> <quality_score> <output_directory>
+```
 Example command:
 
 ```bash
-Copy
 ./pipeline.sh ./samples reference.fasta primers.bed 4 50 1000 clair3_env /path/to/clair3/model 20
+```

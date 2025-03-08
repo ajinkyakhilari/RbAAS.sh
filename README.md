@@ -61,7 +61,7 @@ conda env create -f bcftools_env.yml
 conda env create -f tabix_env.yml
 conda env create -f clair3_env.yml
 
-
+```
 
 ### Pipeline Usage
 

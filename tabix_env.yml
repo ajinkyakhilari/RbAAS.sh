@@ -1,0 +1,6 @@
+name: tabix_env
+channels:
+  - defaults
+  - bioconda
+dependencies:
+  - htslib

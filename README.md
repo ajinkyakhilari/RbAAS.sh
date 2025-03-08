@@ -75,3 +75,8 @@ Example command:
 ```bash
 ./pipeline.sh ./samples reference.fasta primers.bed 4 50 1000 clair3_env /path/to/clair3/model 20
 ```
+
+### License
+This project is licensed under the GPL3.0 License. See the LICENSE file for details.
+
+

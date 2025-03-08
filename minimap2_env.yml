@@ -1,0 +1,6 @@
+name: minimap2_env
+channels:
+  - defaults
+  - bioconda
+dependencies:
+  - minimap2

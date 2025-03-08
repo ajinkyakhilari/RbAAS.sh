@@ -1,0 +1,15 @@
+name: clair3_env
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.8
+  - tensorflow
+  - numpy
+  - pandas
+  - h5py
+  - cython
+  - pip
+  - pip:
+      - clair3  # Replace or adjust according to the Clair3 installation instructions
